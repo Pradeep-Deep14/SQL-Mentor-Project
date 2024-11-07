@@ -1,4 +1,4 @@
-# SQL Mentor User Performance Analysis | Project No.10
+# SQL Mentor User Performance Analysis 
 
 ![SQL Data Analytics](https://github.com/Pradeep-Deep14/SQL-Mentor-Project/blob/main/Unknown-5.jpg)
 
